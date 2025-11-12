@@ -7,7 +7,7 @@ Sou Taldo, desenvolvedor em formação com experiência em **Spring Boot**, **JP
 ### Tecnologias e Ferramentas
 
 <div align="left">
-  <img align="center" alt="Logo-aws" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" />
+  <img align="center" alt="Logo-aws" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   
 </div>
 
